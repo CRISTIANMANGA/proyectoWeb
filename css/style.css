@@ -10,10 +10,70 @@
 .arrib {
     margin-top: -12px;
     margin-left: -17px;
-    width: 402px;
+    width: 862px;
+    
+
 }
 .food {
     width: 100px;
     margin-top: -30px;
     margin-left: 130px;
+    color: white;
+}
+.most{
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 90px;
+    color: white;
+}
+.equis {
+    width: 30px;
+    margin-top: -45px;
+    margin-left: 345px;
+    position: absolute;
+
+}
+.equisa {
+    width: 30px;
+    margin-top: -45px;
+    margin-left: 275px;
+    position: absolute;
+
+}
+.equise {
+    width: 30px;
+    margin-top: -95px;
+    margin-left: 309px;
+    position: absolute;
+}
+.x {
+    width: 30px;
+    margin-top: -45px;
+    margin-left: 299px;
+    position: fixed;
+}
+.cuadrado {
+    width: 30px;
+    margin-top: -45px;
+    margin-left: 309px;
+    position: fixed;
+}
+.recta{
+    width: 30px;
+    margin-top: -45px;
+    margin-left: 309px;
+    position: fixed;
+}
+.naranja {
+    width: 155px;
+    margin-top: 175px;
+    margin-left: 96px;
+    position: absolute;
+}
+.today {
+    font-size: 20px;
+    color: white;
+    position: fixed;
+    margin-left: 109px;
+    margin-top: 26px;
 }
