@@ -1,0 +1,22 @@
+
+.faceca {
+    position: fixed;
+    font-size: 30px;
+    margin-left: 4px;
+    margin-top: 40px;
+    color: orangered;
+}
+.homeca {
+
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 100px;
+    position: fixed;
+}
+
+.font {
+    width: 400px;
+    position: absolutse;
+    margin-top: 120px;
+    margin-left: -15px;
+}
