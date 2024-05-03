@@ -1,0 +1,1 @@
+Esta pagina esta hecha para  celulares, aunque no la  terminè tdo lo que hize fue con pura mente y con lo que habìa aprendido, tuve errores que logrè solucionar, pero a la hora de la verdad, el tiempo la carrera me ha tenido que ganar, :) 
